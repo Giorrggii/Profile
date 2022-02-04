@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "638878255899",
+    "firebase_url": "https://application2-af384-default-rtdb.firebaseio.com",
+    "project_id": "application2-af384",
+    "storage_bucket": "application2-af384.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638878255899:android:8bfdbe9fe2eec9e118a1be",
+        "android_client_info": {
+          "package_name": "ge.msda.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638878255899-uai6mnteshl8h1vb9lcllq1vjbglt93u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPCQmzECSNIdy14-5y0f1TbDQiH8BuBlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638878255899-uai6mnteshl8h1vb9lcllq1vjbglt93u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
